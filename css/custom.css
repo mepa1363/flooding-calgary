@@ -1,0 +1,164 @@
+html, body {
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+
+        #map {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+
+        .legend {
+            line-height: 18px;
+            color: #555;
+
+        }
+
+        .legend p {
+            font-size: 12px;
+        }
+
+        .legend i {
+            width: 18px;
+            height: 18px;
+            float: left;
+            margin-right: 8px;
+            opacity: 0.7;
+        }
+
+        .community_info {
+            padding: 6px 8px;
+            font: 12px/14px Arial, Helvetica, sans-serif;
+            background: white;
+            background: rgba(255, 255, 255, 0.8);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+            border-radius: 5px;
+            left: 50px;
+            top: 15px;
+            display: none;
+        }
+
+        .community_info h4 {
+            margin: 0 0 5px;
+            color: #777;
+        }
+
+        .community_power_info {
+            padding: 6px 8px;
+            font: 12px/14px Arial, Helvetica, sans-serif;
+            background: white;
+            background: rgba(255, 255, 255, 0.8);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+            border-radius: 5px;
+            left: 50px;
+            top: 15px;
+            display: none;
+        }
+
+        .community_power_info h4 {
+            margin: 0 0 5px;
+            color: #777;
+        }
+
+        .info {
+            padding: 6px 8px;
+            font: 12px/14px Arial, Helvetica, sans-serif;
+            background: white;
+            background: rgba(255, 255, 255, 0.8);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+            border-radius: 5px;
+        }
+
+        .info h4 {
+            margin: 0 0 5px;
+            color: #777;
+        }
+
+        .effected_communities_legend {
+            display: none;
+            margin-top: 5px;
+        }
+
+        .bridge_legend {
+            display: none;
+            margin-top: 5px;
+
+        }
+
+        .reception_legend {
+            display: none;
+            margin-top: 5px;
+        }
+
+        .parking_legend {
+            display: none;
+            margin-top: 5px;
+
+        }
+
+        .muster_legend {
+            display: none;
+            margin-top: 5px;
+
+        }
+
+        .garbage_legend {
+            display: none;
+            margin-top: 5px;
+
+        }
+
+        .power_legend {
+            display: none;
+            margin-top: 5px;
+
+        }
+
+        .animal_legend {
+            display: none;
+            margin-top: 5px;
+
+        }
+
+        .volunteer_legend {
+            display: none;
+            margin-top: 5px;
+
+        }
+
+        .accommodation_legend {
+            display: none;
+            margin-top: 5px;
+
+        }
+
+        .lrt_legend {
+            display: none;
+            margin-top: 5px;
+
+        }
+
+        .road_closed_legend {
+            display: none;
+            margin-top: 5px;
+
+        }
+
+        .legend img {
+            margin-left: -5px;
+        }
+
+        .ui-dialog-title {
+            font-size: .9em;
+        }
+
+        .ui-widget{
+            font-size: .9em;
+        }
+
+            /**************************** Fix overlay issue (about dialog) *********************************************/
+        .leaflet-top, .leaflet-bottom {
+            z-index: 100;
+        }

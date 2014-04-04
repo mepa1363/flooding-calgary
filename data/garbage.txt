@@ -1,0 +1,10 @@
+name,address,latitude,longitude
+Vista Heights Fire Station #4,1991 18 Ave NE Calgary,51.068868,-114.013893
+Varsity Fire Station #17,3740 32nd Ave NW  Calgary,51.081554,-114.138837
+Lincoln Park Fire Station #20,2800 Peacekeepers Way SW  Calgary,51.00467,-114.126839
+Cedarbrae Fire Station #24,2607 106th Ave SW  Calgary,50.957665,-114.121243
+Midnapore Fire Station #26,450 Midpark Way SE  Calgary,50.906834,-114.059954
+Country Hills Fire Station #31,11955 Country Village Link NE Calgary,51.158719,-114.067859
+Shepard Landfill,12111 68 St SE  Calgary,50.946344,-113.935288
+Spyhill Landfill,11808 69 St NW Calgary,51.164866,-114.187367
+East Calgary Landfill,3801 68 Street SE Calgary,51.02307,-113.935119
